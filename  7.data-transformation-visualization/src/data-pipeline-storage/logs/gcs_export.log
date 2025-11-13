@@ -1,0 +1,9 @@
+2025-10-30 17:20:27,990 - INFO - ======================================================================
+2025-10-30 17:20:27,990 - INFO - STARTING DATA EXPORT TO GCS
+2025-10-30 17:20:27,990 - INFO - ======================================================================
+2025-10-30 17:20:27,990 - INFO - 
+Step 1: Connecting to GCS...
+2025-10-30 17:20:27,991 - ERROR - Failed to connect to GCS: [Errno 2] No such file or directory: './gcs-service-account-key.json'
+2025-10-30 17:20:27,991 - ERROR - Cannot proceed without GCS connection
+2025-10-30 17:20:27,991 - ERROR - 
+Script completed with errors

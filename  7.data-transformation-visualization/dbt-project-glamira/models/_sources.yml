@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+
+  - name: glamira_raw_data
+
+    schema: glamira_raw_data
+
+    tables:
+
+      - name: summary
+
+      - name: product_details
+
+      - name: ip_locations
